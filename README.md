@@ -1,3 +1,4 @@
+![DALL·E 2023-08-20 17 02 08 - X-Ray body part classification model](https://github.com/zmaktr/x-ray-body-part-classification/assets/90152617/58238549-fa60-449e-a4b4-b821d0ff47ed)
 # Body Part Classification from X-ray Images
 
 This repository contains code for classifying body parts from X-ray images using a pre-trained model. The model is designed to work with RGB images of size 224x224 pixels.
