@@ -1,3 +1,4 @@
-data/images/*
+data/images_train/*
+data/images_train/*
 l_BaseKit_p_2023.2.0.49397_offline.sh
 .venv
